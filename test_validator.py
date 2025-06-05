@@ -16,3 +16,6 @@ class TestValidator(unittest.TestCase):
 
 if __name__ == "__main__": 
     unittest.main()
+
+# Cambio de prueba para activar Jenkins CI (Poll SCM)
+
